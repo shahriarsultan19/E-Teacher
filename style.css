@@ -1,0 +1,223 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* .container{
+    margin-bottom: 50px;
+} */
+/* Header start from here */
+header{
+    background-color: #F0FFF0;
+    height: 100px;
+    align-items: flex-end;
+}
+header img{
+    height: 100px;
+}
+.logo{
+    text-decoration: none;
+}
+.logo h2{
+    padding-top: 35px;
+    padding-left: 15px;
+    color: #9125e9;
+}
+.nav{
+    padding-top: 20px;
+}
+.nav-item a{
+    color: black;
+    font-weight: 400;
+    font-size: 16px
+}
+.nav-item:hover{
+    background-color: #21B573;
+    border-radius: 30px;
+}
+.nav-item a:hover{
+    color: white;
+    transition: 0.05s;
+}
+/* Header ends here */
+
+/* Display start from here */
+.dis-back{
+    background-color: #F0FFF0;
+    padding-bottom: 20px;
+}
+.full-dis{
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.dis-crib{
+    padding-top: 50px;
+}
+.dis-crib .q{
+    color: #FD511A;
+    font-weight: 400;
+    font-size: 16px;
+}
+.dis-crib h2{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 145.833%;
+}
+.dis-crib span{
+    color: #21B573;
+}
+.dis-crib .p{
+    color: #6C6B6B;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 225%;
+}
+.dis-crib button{
+    height: 43px;
+    width: 153px;
+    background-color: #21B573;
+    border: none;
+    border-radius: 36px;
+    color: white;
+}
+.dis-img img{
+    width: 554px;
+    height: 346px; 
+}
+/* Display ends here */
+
+/* Details start from here */
+#others{
+    margin-top: 100px;
+}
+.box{
+    height: 270px;
+    width: 270px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    text-align: center;
+}
+.box img{
+    height: 85px;
+    width: 66px;
+    margin-top: 40px;  
+}
+.box h4{
+    padding: 50px 0px 0px 0px;
+    padding-top: 60px;
+    color: #413960;
+    font-size: 24px;
+    font-weight: 500px;
+}
+.box p{
+    color: #585859;
+    font-size: 16px;
+    font-weight: 400px;
+}
+.box:hover{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px 20px rgba(0, 0, 0, 0.10);
+}
+/* Details ends here */
+
+/* Online courses start here */
+
+.on-cours{
+    text-align: center;
+    color: #413960;
+    font-size: 36px;
+    font-weight: 700;
+    margin: 105px 0px 55px 0px;
+}
+
+.courses-box{
+    height: 483px;
+    width: 370px;
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.10); 
+    
+}
+.Course-img {
+    height: 234px;
+    width: 331px;
+    padding: 15px 0px 0px 10px;
+}
+.courses-box h4{
+    color: #413960;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 19px 0px 0px 10px; 
+}
+.courses-box p{
+    color: #585859;
+    font-size: 16px;
+    font-weight: 400; 
+    padding: 0px 0px 0px 10px;
+}
+.but-div{
+    padding: 15px 0px 0px 10px;
+}
+.buy-course{    
+    height: 35px;
+    width: 140px;
+    background-color: #21B573;
+    border: none;
+    border-radius: 36px;
+    color: white;
+}
+.macro{
+    padding-top: 40px;
+}
+.macro p{
+    color: #585859;
+    font-size: 16px;
+    font-weight: 500; 
+}
+.micro{
+    height: 24px;
+    width: 24px;
+}
+/* Online courses ends here */
+
+/* Testimonial start from here  */
+.testi{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.testi h2{
+    text-align: center;
+    margin-bottom: 50px;
+    color: #000;
+    font-size: 36px;
+    font-weight: 700; 
+}
+.comnt{
+    margin-bottom: 80px;
+}
+.comnt img{
+    width: 120px;
+    height: 120px; 
+}
+
+/* Testimonial ends here */
+
+/* Bellow area start from here  */
+.foter{
+    background-color: #282531;
+}
+.links{
+    color: #FFFFFF;
+    padding: 50px 0px 70px 0px;
+}
+.links h5{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 30px; 
+}
+footer{
+    text-align: center;
+    color: #CDCDCD;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+}
+/* Bellow area ends here */
